@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">[Erik Amraral]</h1>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
-<!--
-**ErikAmaral1898/ErikAmaral1898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Transformando ideias em aplicações web completas, do layout ao código.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack
+
+* **Front-end:** HTML5, CSS3, JavaScript (ES6+), React
+* **Back-end:** Node.js
+* **Ferramentas:** Git, GitHub, VS Code
+
+---
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/erik-amaral)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ErikAmaral1898)
